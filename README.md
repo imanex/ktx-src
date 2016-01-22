@@ -18,8 +18,7 @@ Build from source
 Linux:
 
 ```
-./configure
-make build-dl
+build-ktx.sh
 ```
 
 Now, you should have the qwprogs.so. Copy it to your ktx game directory of your quakeworld server.
